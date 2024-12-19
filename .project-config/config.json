@@ -1,0 +1,11 @@
+{
+  "name": "codeant-ai",
+  "version": "1.0.0",
+  "description": "A modern repository management platform",
+  "author": "Your Name",
+  "private": true,
+  "type": "module",
+  "config": {
+    "template": "vite-react-typescript"
+  }
+} 

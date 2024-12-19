@@ -1,0 +1,18 @@
+{
+  "name": "codeant-platform",
+  "version": "1.0.0",
+  "platform": {
+    "type": "web",
+    "framework": "react",
+    "styling": "tailwind"
+  },
+  "features": {
+    "ai": true,
+    "security": true,
+    "collaboration": true
+  },
+  "deployment": {
+    "type": "cloud",
+    "regions": ["us-east", "eu-west", "ap-south"]
+  }
+} 
